@@ -1,2 +1,2 @@
-# amazon-clone-project
- website clone
+# ecommerce store clone
+ amazoff clone
